@@ -1,0 +1,15 @@
+JewelryIamges — images du projet Next.js
+
+01-Images-Web : les 41 fichiers raster du site, classes par usage, plus les SVG (vectoriels, resolution independante) et le favicon. Les noms des fichiers sont conserves. manifest.json indique le chemin correspondant dans le projet.
+02-Masters-PNG : fichiers generes/restaures a leur resolution native, avant export pour le Web, et bannieres fournies.
+03-Apercus-du-site : captures ordinateur et mobile.
+04-Reference : maquette de reference du projet, conservee pour information.
+
+Toutes les petites photos ont ete restaurees avec image_gen et exportees en haute resolution. Les WebP sont encodes en qualite 96. Les icones et le visuel de partage deja agrandis sont conserves pour proteger textes et geometrie. Les restaurations IA peuvent reconstruire des details differents du bijou original.
+
+Le projet utilise ces versions HD et une nouvelle cle de cache. Le cadrage a ete corrige dans les conteneurs des produits et bannieres.
+Les icones numerotees sont des masters : redimensionner selon le manifeste de l application pour une integration PWA.
+
+manifest.json : dimensions, fichiers et empreintes SHA-256.
+prompts.json : consignes de restauration image_gen.
+index.html : galerie des images Web.

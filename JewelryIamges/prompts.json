@@ -1,0 +1,167 @@
+[
+  {
+    "file": "01-Notre-Maison/artisan.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Restore and upscale the attached low-resolution image to 4x resolution, ideally at least 1460x684, preserving its original aspect ratio and exact composition. A jeweler's hand holding dark tweezers to place a round clear diamond into a gold solitaire ring held in a workshop clamp. Preserve exact hand, ring, tool and workshop arrangement. Remove compression blocks and blur, recover clean natural photographic texture, sharpen jewelry and metal details with realistic restrained reflections. Keep all original objects, colors, lighting, perspective, framing and background. Do not redesign jewelry, add objects, crop, add text, or change identity. Faithful high-quality restoration, not a new scene."
+  },
+  {
+    "file": "01-Notre-Maison/diamond-decoration.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Fine champagne-gold line art of a faceted diamond on an ivory background. Preserve every geometric line, proportions and extremely subtle colors; crisp clean lines. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-1.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Close-up of woman's ear with a delicate floral diamond drop earring. Preserve model identity, skin color, pose, hair and jewelry design. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-2.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Two gold and silver wedding bands on champagne silk. Preserve ring shapes, positions and metallic colors. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-3.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Woman's neck and neckline wearing a fine diamond necklace with a pear pendant. Preserve identity, natural skin texture, necklace exact shape and placement. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-4.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Two diamond tennis bracelets on pale natural stone. Preserve both bracelets and every row of stones. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-5.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Floral solitaire diamond ring in yellow gold on champagne silk. Preserve floral stone setting and gold band. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-6.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Portrait crop of a woman touching her neck wearing a floral diamond ring and drop earring. Preserve model identity, anatomy, pose and all jewelry. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "02-Inspiration/inspiration-7.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Paris Les Invalides golden dome, stone facade and greenery under a warm pale sky. Preserve architecture exactly. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "03-Guide-Cadeaux/gift.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Ivory jewelry gift box with champagne satin bow and small gold diamond emblem and exact brand text 'Éclat Joaillerie'. Preserve exact lettering, box, ribbon and composition. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "04-Bandeau-Lumiere-Eternelle/seasonal.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Panoramic photograph of a floral diamond necklace and matching pair of pear-shaped drop earrings on warm stone with tiny ivory flowers. Preserve exact subject arrangement and wide crop. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "04-Bandeau-Lumiere-Eternelle/seasonal-texture.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Very subtle soft blurred dark brown and taupe photographic background texture. Preserve near-featureless blurred appearance, exact gradient colors and illumination. Do not add any objects or details. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "05-Hauts-de-Pages/category-bracelets.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Two gold diamond tennis bracelets diagonally arranged on champagne silk. Preserve original bracelet designs and exact placement. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "05-Hauts-de-Pages/category-collections.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Two smooth yellow gold wedding rings on champagne silk, one ring with a fine row of clear stones. Preserve exact arrangement and shapes. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "05-Hauts-de-Pages/category-earrings.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Matching pair of floral diamond drop earrings with pear-shaped lower drops on warm pale stone. Preserve exact design and arrangement. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "05-Hauts-de-Pages/category-necklaces.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Close-up of woman's neckline wearing a pear-shaped halo diamond pendant and delicate chain. Preserve anatomy, skin color, jewelry design and framing. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "05-Hauts-de-Pages/category-rings.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Yellow gold solitaire ring with floral diamond halo on ivory silk. Preserve exact ring design and position. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "05-Hauts-de-Pages/ring-eternity.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Yellow gold floral diamond ring on soft ivory background with a tiny brown outline heart icon at upper right. Preserve the heart, ring design and layout. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "06-Fond-Texte-Slider/hero-texture.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Subtle softly blurred warm dark brown gradient texture used as website text background. Preserve exact colors, indistinct shapes and smooth appearance. Do not invent objects or add detail. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "07-Fleurs-Avis/flowers-left.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Delicate translucent ivory magnolia flowers and fine pale stems on cream textured background, decorative motif. Preserve faint low contrast monochromatic appearance and placement. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "07-Fleurs-Avis/flowers-right.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Delicate ivory magnolia blossom on the right with fine stems extending across pale cream background. Preserve subtle low contrast monochromatic appearance and exact placement. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "08-Newsletter/newsletter-left.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Close-up flowing dark champagne satin with graceful folds and soft glossy reflections. Preserve fabric folds and light direction. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "08-Newsletter/newsletter-right.webp",
+    "tool": "image_gen (built-in)",
+    "prompt": "Use case: precise-object-edit. Faithfully restore and upscale the provided low-resolution image. Preserve EXACT original aspect ratio, framing, composition, object count, shape, identity, colors, lighting, background and jewelry designs. Ivory flowering branches on warm very dark brown background. Preserve every blossom and branch arrangement. Remove compression blocks and blur, restore clear clean edges and natural fine detail, realistic restrained reflections. Do not redesign, crop, add objects, add text, change logos or change the scene. Output a single polished higher-resolution restoration of this image, not a collage."
+  },
+  {
+    "file": "ring-eternity.webp",
+    "prompt": "Use case: precise-object-edit. Remove ONLY the brown heart outline icon in the upper right corner of this jewelry product photograph. Reconstruct the same plain pale cream background under that icon. Preserve the ring absolutely unchanged: exact design, stone arrangement, band, shape, metal color, highlights and position. Preserve exact background, lighting, composition, aspect ratio and resolution. No other edits, no text, no extra objects.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "necklace-clover.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. A delicate yellow gold chain necklace with a five-petal floral diamond pendant resting on champagne satin. Preserve exact pendant shape, original jewelry metal color and composition. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "necklace-flower.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. A yellow gold necklace chain and diamond flower pendant on ivory champagne satin. Preserve the exact flower design, placement and gold color. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "bracelet-elegance.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. Two yellow gold delicate diamond tennis bracelets diagonally displayed on champagne satin, preserve exact bracelets design and layout. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "bracelet-river.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. An open elliptical diamond tennis bracelet with two rows of clear stones in silver white gold on beige satin. Preserve exact design, closure and layout. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "earrings-light.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. A pair of matching elaborate floral and pear-shaped diamond drop earrings on warm pale natural stone. Preserve exact original design and placement. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "earrings-royal.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. A pair of matching white gold floral diamond earrings with round halo lower drops on pale champagne satin. Preserve exact jewelry design and placement. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "ring-pear.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. A yellow gold ring with a large pear shaped clear stone and fine diamond halo on champagne satin. Preserve exact ring design, diamond pear cut and composition. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "ring-solitaire.webp",
+    "prompt": "Use case: precise-object-edit. Restore and upscale this actual low-resolution jewelry photograph to high-quality at least 2000 pixels wide. A yellow gold floral halo solitaire diamond ring with stone-set shoulders on ivory satin. Preserve exact original design and composition. Treat the attached image as the authoritative reference: match its actual backdrop (plain warm ivory studio background), colors and jewelry construction. Remove blur and JPEG artifacts, recover clean natural metal and stone detail. Keep jewelry completely in frame, keep the original panoramic aspect ratio and composition. No redesign, no new stones or props, no new text, no white border or letterboxing. Remove any tiny heart UI icon baked into the source; website renders its own controls. Edge-to-edge photograph, realistic photographic detail, restrained sparkle.",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "file": "hero.webp",
+    "prompt": "Use case: identity-preserve. Faithfully restore and upscale the attached jewelry campaign portrait to at least 2400 pixels wide. Preserve original wide aspect ratio, exact model identity, face, pose, anatomy, original skin color, ivory satin sleeve, her hand with diamond ring under chin, matching floral diamond necklace and drop earrings. Keep original warm studio background and exact composition. Remove compression artifacts and blur, restore realistic skin texture, hair strands, clean metalwork and fine diamond detail with restrained sparkle. Do not add objects, change clothing, redesign jewelry, crop, add text, logos or borders. Edge-to-edge professional photographic restoration.",
+    "tool": "image_gen (built-in)"
+  }
+]
